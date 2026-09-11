@@ -91,5 +91,5 @@ io.github.kotoba-lang/force3d {:git/sha "<sha>"}
 ## Verify
 
 ```sh
-clojure -M:test
+kbb -M:test
 ```
